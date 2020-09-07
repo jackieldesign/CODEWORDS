@@ -15,5 +15,4 @@ I then discovered the AI video game [Façade](https://www.playablstudios.com/fac
 
 >As put by Chris Crawford, a legendary game designer of the 1980's who now focuses on interactive storytelling technology: "As a game designer you are an absolute god. One kind of god says, 'O.K., now this leaf will fall a little bit here, and then this wind will blow a bit over there.' The other kind of god says, 'Here are the laws of physics. Go for it."'
 
-*The New York Times, Redefining the Power of the Gamer* 
-https://www.nytimes.com/2005/06/07/arts/redefining-the-power-of-the-gamer.html
+>*The New York Times,*[Redefining the Power of the Gamer](https://www.nytimes.com/2005/06/07/arts/redefining-the-power-of-the-gamer.html)
