@@ -7,7 +7,7 @@ I went down a bit of a rabbit hole surrounding e-literature, including e-poetry 
 
 >We read differently now in that we are multimedia readers. That means not only that we go back and forth between reading and watching videos, but we are intermedial also; multimedia puts emphasis on the multiplicity of media; intermedia puts emphasis on the relations between media. We think more intermedially than before. Mixing arts and media together is more 'natural' to us now not only cuz we experience a mix of media in our daily computing experience, but because the web is so oriented to mixing fields, crossing borders. A synthesis of arts and media, which is what my work has been about forever, is now an experience people seek—not to experience the future of literacy—but to experience an intermedial version of the present new multimedia literacy.
 
-<img src="JimAndrews_popuppoem.JPG">
+<img src="EnigmaN.gif">
 
 *Me and Kinetic Poetry—Jim Andrews*
 
