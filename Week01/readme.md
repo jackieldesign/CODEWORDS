@@ -2,9 +2,7 @@
 
 And so, code + words begins.
 
-I'd say around a third of my closest friends are studying computer science, and when they conversed with each other asking which languages the other was learning or complained about some language or another, I'd think it funny that it sounded like they really *were* learning another language, because of course, code isn't a real language..
-
-Anyway, I was wrong. 
+I'd say around a third of my closest friends are studying computer science, and when they conversed with each other asking which languages the other was learning or complained about some language or another, I'd think it funny that it sounded like they really *were* learning another language, because of course, code isn't a real language..anyway, I was wrong. 
 
 ## Lessons learnt—
 
@@ -29,7 +27,7 @@ We began to learn processing, a computer programming software by Casey Reas and 
 
 We started off with the basics, but my mind was already blown. Rainbow circles!
 
-<img src="ezgif.com-video-to-gif (5).gif">
+<p align="center"><img src="ezgif.com-video-to-gif (5).gif"><p>
 
 ## Initials
 [Click here!](https://jackieliiu.github.io/CODEWORDS/Week01/Initials/myinitials)
