@@ -1,6 +1,9 @@
 # Week 3 — Electironic Literature
 Avatars and visual identities. We were introduced to artists such as Stelarc and Mariko Mori, and gathered more research of e-lit examples. The discoveries made in this session were very unsettling yet highly fascinating (e.g, AI dungeon).
 
+### Notes
+<img src="Week3Notes.jpg">
+
 # My own explorations
 
 I went down a bit of a rabbit hole surrounding e-literature, including e-poetry and AI storytelling. I found the e-poet Jim Andrews, and exploring his [website](http://vispo.com/) was truly an interactive, amusing, and immersive adventure. I also skimmed some of his [essays](http://vispo.com/writings/index.htm#Ssays), and came across this quote from *Me and Kinetic Poetry* that really helped me grasp a major reason for why the world is seeking new, mixed forms of literacy. 
