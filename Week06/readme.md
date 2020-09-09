@@ -14,8 +14,12 @@ Originally I had my eyes on Jean-François Lyotard's "The Postmodern Condition: 
 
 I took some time to go through the entire reading to grasp the wider concepts that Lanham presented, and what he generally thought was next for text. Here are some notes I took, including some quotes (highlighted are concepts that I felt I could draw ideas from):
 
+<img src="ReadingNotes.jpg">
+<img src="ReadingNotes2.jpg">
 
 ## More Prototypes
+
+<img src="Prototypeplans.jpg">
 
 <img src="PROTOTYPE1.gif">
 <img src="PROTOTYPE2.gif">
