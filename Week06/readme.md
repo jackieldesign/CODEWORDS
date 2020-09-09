@@ -43,6 +43,7 @@ LOOP
 ```
 
 <p align="center"><img src="PROTOTYPE2.gif"></p>
+
 ## PSEUDOCODE
 
 ```
@@ -63,6 +64,7 @@ LOOP
 
 ```
 <p align="center"><img src="PROTOTYPE3.gif"></p>
+
 ## PSEUDOCODE
 
 ```
@@ -77,6 +79,7 @@ ENDWHILE
       
 ```
 <p align="center"><img src="PROTOTYPE4.gif"></p>
+
 ## PSEUDOCODE
 
 ```
