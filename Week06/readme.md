@@ -18,9 +18,9 @@ I took some time to go through the entire reading to grasp the wider concepts th
 <img src="ReadingNotes2.jpg">
 
 ## More Prototypes
-
-<img src="Prototypeplans.jpg">
-
+<p align ="center">
 <img src="PROTOTYPE1.gif">
 <img src="PROTOTYPE2.gif">
 <img src="PROTOTYPE3.gif">
+<img src="PROTOTYPE4.gif">
+</p>
