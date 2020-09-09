@@ -18,8 +18,7 @@ I took some time to go through the entire reading to grasp the wider concepts th
 <img src="ReadingNotes2.jpg">
 
 ## More Prototypes
-<p align ="center">
-<img src="PROTOTYPE1.gif"> </p>
+<p align ="center"><img src="PROTOTYPE1.gif"> </p>
 
 ## PSEUDOCODE
 ```
@@ -43,7 +42,73 @@ LOOP
       
 ```
 
-<img src="PROTOTYPE2.gif">
-<img src="PROTOTYPE3.gif">
-<img src="PROTOTYPE4.gif">
+<p align="center"><img src="PROTOTYPE2.gif"></p>
+## PSEUDOCODE
+
+```
+START LOOP
+  SET spiralSize = 0
+  INPUT spiral sentence
+  
+  IF user presses "in" THEN
+    INCREMENT spiralSize
+  IF spiralSize > 800 THEN
+    *stop INCREMENT*
+    print prompt
+    "Press "out" to exhale"
+  IF user presses "out" THEN
+    *DECREMENT spiralSize*
+    
+  IF spiralSize = 0 THEN
+  INPUT new spiral sentence
+      
+LOOP
+      
+```
+<p align="center"><img src="PROTOTYPE3.gif"></p>
+
+## PSEUDOCODE
+```
+START LOOP
+  SET spiralSize = 0
+  INPUT spiral sentence
+  
+  IF user presses "in" THEN
+    INCREMENT spiralSize
+  IF spiralSize > 800 THEN
+    *stop INCREMENT*
+    print prompt
+    "Press "out" to exhale"
+  IF user presses "out" THEN
+    *DECREMENT spiralSize*
+    
+  IF spiralSize = 0 THEN
+  INPUT new spiral sentence
+      
+LOOP
+      
+```
+<p align="center"><img src="PROTOTYPE4.gif"></p>
+
+## PSEUDOCODE
+```
+START LOOP
+  SET spiralSize = 0
+  INPUT spiral sentence
+  
+  IF user presses "in" THEN
+    INCREMENT spiralSize
+  IF spiralSize > 800 THEN
+    *stop INCREMENT*
+    print prompt
+    "Press "out" to exhale"
+  IF user presses "out" THEN
+    *DECREMENT spiralSize*
+    
+  IF spiralSize = 0 THEN
+  INPUT new spiral sentence
+      
+LOOP
+      
+```
 
