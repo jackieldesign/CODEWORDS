@@ -31,11 +31,11 @@ START
     INCREMENT spiralSize
     
   IF spiralSize > 800 THEN
-    *stop INCREMENT*
+    stop INCREMENT
     PRINT "Press "out" to exhale"
     
   IF user presses "out" THEN
-    *DECREMENT spiralSize*
+    DECREMENT spiralSize
     
   IF spiralSize < 500 THEN
     shatter spiral
