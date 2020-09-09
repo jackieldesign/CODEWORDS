@@ -63,8 +63,8 @@ LOOP
 
 ```
 <p align="center"><img src="PROTOTYPE3.gif"></p>
-
 ## PSEUDOCODE
+
 ```
 START
 
@@ -77,8 +77,8 @@ ENDWHILE
       
 ```
 <p align="center"><img src="PROTOTYPE4.gif"></p>
-
 ## PSEUDOCODE
+
 ```
 START 
 
