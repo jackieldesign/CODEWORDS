@@ -23,20 +23,27 @@ I took some time to go through the entire reading to grasp the wider concepts th
 ## PSEUDOCODE
 ```
 START
+
   SET spiralSize = 0
   INPUT spiral sentence
   
   IF user presses "in" THEN
     INCREMENT spiralSize
+    
   IF spiralSize > 800 THEN
     *stop INCREMENT*
-    print prompt
-    "Press "out" to exhale"
+    PRINT "Press "out" to exhale"
+    
   IF user presses "out" THEN
     *DECREMENT spiralSize*
     
+  IF spiralSize < 500 THEN
+    shatter spiral
+    
   IF spiralSize = 0 THEN
-  INPUT new spiral sentence
+    INPUT new spiral sentence
+    
+  ENDIF
       
 LOOP
       
@@ -52,11 +59,15 @@ START
 
 INPUT textScreen
 SET screenSize
+
 FOR every second
   INCREMENT screenSize
+  
 IF screenSize/2 > window Width
   slide down off screen
+  
 ENDIF
+
 INPUT new textScreen
 
 LOOP
@@ -87,11 +98,15 @@ START
 
   IF mouseX > windowWidth/2 THEN
     right half slides left
+    
   ELSE IF mouseX < windowWidth/2 THEN
     left half slides right    
+    
   ENDIF
+  
   IF mouseIsPressed THEN
     INPUT new sentences
+    
   ENDIF
 
       
