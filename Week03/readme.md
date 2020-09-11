@@ -32,3 +32,7 @@ We also helped each other familiarise ourselves with customising our avatars. Si
 
 <img src="familyphoto.png">
 <img src="Cuddle.png">
+
+Have finally started learning processing outside of class! Click [here](https://jackieliiu.github.io/CODEWORDS/Week03/sketch/ILoveDanSchiffman/) to play with a desert-reminiscent abstract sketch.
+
+<p align="center"><img src="ILoveDanShiffman.gif"></p>
