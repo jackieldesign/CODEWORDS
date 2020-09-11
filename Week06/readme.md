@@ -36,11 +36,24 @@ END IF
 
 I found pseudocode ironically difiicult to write, but luckily it's not easy to get it wrong. I think I need to get more familiar with the statements I can make in pseudocode before I feel more comfortable writing it, but otherwise it seems to be a really great tool for the beginnings of understanding the logic and order
 
-## What's Next for Text?
+## What's Next for Text? —
 
 Originally I had my eyes on Jean-François Lyotard's "The Postmodern Condition: A Report on Knowledge" as it raised some captivating theories of knowledge becoming obsolete in the future, and the commodity of knowledge. However, when I came across R.A Lanham's "What's Next for Text", I found that the last page especially piqued my interest, with a great quote from Jean Tinguely. Following this, he speaks of the economics of attention, that leads to fads and fashions, writing of attention as a scarce commodity. I saw potential in this idea, with elements possibly fighting for attention
 
 <p align="center"><img src="Reading.png"></p>
+
+
+## Live Coding Sesh —
+
+We started working with arrays of letters, as well as larger blocks of text.
+
+[Here](https://jackieliiu.github.io/CODEWORDS/Week06/ClassCode/RandomLettersErasing/) is the code I did in class
+
+[Here](https://jackieliiu.github.io/CODEWORDS/Week06/remixedcode/LettersandDots/) is a remixed version I did later incorporating randomly appearing dots.
+
+and lastly,
+
+[Here](https://jackieliiu.github.io/CODEWORDS/Week06/springparag/springparag/) is the springy paragraph we did in class that excites me very much. Sin waves!!?
 
 <p align="center">__________________________________________________________________</p>
 
