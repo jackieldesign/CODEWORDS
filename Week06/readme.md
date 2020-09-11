@@ -47,7 +47,7 @@ Originally I had my eyes on Jean-François Lyotard's "The Postmodern Condition: 
 
 We started working with the 'random' function, arrays, as well as larger blocks of text.
 
-[Here](https://jackieliiu.github.io/CODEWORDS/Week06/ClassCode/RandomLettersErasing/) is the code I did in class
+[Here](https://jackieliiu.github.io/CODEWORDS/Week06/ClassCode/RandomLettersErasing) is the code I did in class
 
 [Here](https://jackieliiu.github.io/CODEWORDS/Week06/remixedcode/LettersandDots/) is a remixed version I did later incorporating randomly appearing dots.
 
