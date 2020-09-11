@@ -14,4 +14,6 @@ Our live coding session with Karen introduced us to using the sound library that
 
 [Click here](https://jackieliiu.github.io/CODEWORDS/Week07/EyeBlink/BlinkEyeSound) for the eye blink I made in class.
 
+<img src="BLINK.JPG">
+
 
