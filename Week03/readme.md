@@ -1,4 +1,4 @@
-# Week 3 — Electironic Literature
+# Week 3 — Electronic Literature
 Avatars and visual identities. We were introduced to artists such as Stelarc and Mariko Mori, and gathered more research of e-lit examples. The discoveries made in this session were very unsettling yet highly fascinating (e.g, AI dungeon).
 
 ### Notes
@@ -19,3 +19,14 @@ I then discovered the AI video game [Façade](https://www.playablstudios.com/fac
 >As put by Chris Crawford, a legendary game designer of the 1980's who now focuses on interactive storytelling technology: "As a game designer you are an absolute god. One kind of god says, 'O.K., now this leaf will fall a little bit here, and then this wind will blow a bit over there.' The other kind of god says, 'Here are the laws of physics. Go for it."'
 
 >*The New York Times,*[Redefining the Power of the Gamer](https://www.nytimes.com/2005/06/07/arts/redefining-the-power-of-the-gamer.html)
+
+### Re-readings
+
+We were given a chance in class to gather in our groups to discuss our project. We chose our passage (chapter 2) and logged into Second Life together. With pre-made buildings with rules and regulations, we had to scour the vast world for appropriate locations. Ironically, the most appropriate location was within the inappropriate corner of Second-Life, but we managed.
+
+It was really entertaining to be performing or planning these ideas with other players in-game. We interacted and chatted with them, and they could probably hear us talking to each other. It made me laugh that they would've never guessed we were doing a uni project.
+
+We also helped each other familiarise ourselves with customising our avatars. Since there are no default children avatars, I ended up using a strangely squished and deformed body shape that was significantly shorter, which was good enough but slightly disturbing. Which seems to fit House of Leaves well.
+
+<img src="familyphoto.png">
+<img src="Cuddle.png">
