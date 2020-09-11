@@ -45,7 +45,7 @@ Originally I had my eyes on Jean-François Lyotard's "The Postmodern Condition: 
 
 ## Live Coding Sesh —
 
-We started working with arrays of letters, as well as larger blocks of text.
+We started working with the 'random' function, arrays, as well as larger blocks of text.
 
 [Here](https://jackieliiu.github.io/CODEWORDS/Week06/ClassCode/RandomLettersErasing/) is the code I did in class
 
