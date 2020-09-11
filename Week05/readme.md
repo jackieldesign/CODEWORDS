@@ -4,7 +4,13 @@
 
 [click here to watch :)](https://www.youtube.com/watch?v=KQGvEqaG5Ro&list=LLLFzmRL497_PQRJgcTARc3Q&index=8&t=0s)
 
-The class presentations were chilling. I think I got actualy goosebumps while watching the Sims group, as well as the Club Penguin one. I did not expect such masterpieces to come out of this, but there's something so powerful about a text being re-interpreted in an unexpected form. I could see how groups worked around restriction, how creativity was evidently spurred by constraint. Really magical stuff.
+<p align="center"><img src="Porch.JPG">
+<img src="Interview.JPG">
+<img src="NotAlone.JPG">
+<img src="Cam.JPG"></p>
+
+
+The videos from all the groups were chilling. I think I got actualy goosebumps while watching the Sims group, as well as the Club Penguin one. I did not expect such masterpieces to come out of this, but there's something so powerful about a text being re-interpreted in an unexpected form. I could see how groups worked around restriction, how creativity was evidently spurred by constraint. Really magical stuff.
 
 ### Reflection —
 
