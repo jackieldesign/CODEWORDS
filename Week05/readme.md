@@ -2,7 +2,7 @@
 
 **GROUP 2: CHAPTERS 1 & 2 IN SECOND LIFE:**
 
-[click here to watch :)](https://www.youtube.com/watch?v=KQGvEqaG5Ro&list=LLLFzmRL497_PQRJgcTARc3Q&index=8&t=0s)
+**[click here to watch :)](https://www.youtube.com/watch?v=KQGvEqaG5Ro&list=LLLFzmRL497_PQRJgcTARc3Q&index=8&t=0s) <<<<**
 
 <p align="center"><img src="Porch.JPG">
 <img src="Interview.JPG">
