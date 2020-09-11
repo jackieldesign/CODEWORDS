@@ -12,7 +12,7 @@ I went down a bit of a rabbit hole surrounding e-literature, including e-poetry 
 
 <p align="CENTER"><img src="EnigmaN.gif"> </p>
 
-<p align="center">[Enigma n](http://vispo.com/animisms/enigman/enigman.htm#) by Jim Andrews.</p>
+[Enigma n](http://vispo.com/animisms/enigman/enigman.htm#) by Jim Andrews.
 
 
 
