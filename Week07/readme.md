@@ -12,6 +12,6 @@ We started off making sure that we all had excepts from our chosen readings. The
 
 Our live coding session with Karen introduced us to using the sound library that comes with Processing. This was so helpful as I love the idea of incorporating sound or music into code. I'd love to use some little sound effects in my major project.
 
-Click here for the eye blink I made in class.
+[Click here](https://jackieliiu.github.io/CODEWORDS/Week07/EyeBlink/BlinkEyeSound) for the eye blink I made in class.
 
 
