@@ -1,10 +1,10 @@
 # Week 3 — Electronic Literature
 Avatars and visual identities. We were introduced to artists such as Stelarc and Mariko Mori, and gathered more research of e-lit examples. The discoveries made in this session were very unsettling yet highly fascinating (e.g, AI dungeon).
 
-### Notes
+### Notes —
 <img src="Week3Notes.jpg">
 
-# My own explorations
+## My own explorations —
 
 I went down a bit of a rabbit hole surrounding e-literature, including e-poetry and AI storytelling. I found the e-poet Jim Andrews, and exploring his [website](http://vispo.com/) was truly an interactive, amusing, and immersive adventure. I also skimmed some of his [essays](http://vispo.com/writings/index.htm#Ssays), and came across this quote from *Me and Kinetic Poetry* that really helped me grasp a major reason for why the world is seeking new, mixed forms of literacy. 
 
@@ -20,7 +20,7 @@ I then discovered the AI video game [Façade](https://www.playablstudios.com/fac
 
 >*The New York Times,*[Redefining the Power of the Gamer](https://www.nytimes.com/2005/06/07/arts/redefining-the-power-of-the-gamer.html)
 
-### Re-readings
+## Re-readings —
 
 We were given a chance in class to gather in our groups to discuss our project. We chose our passage (chapter 2) and logged into Second Life together. With pre-made buildings with rules and regulations, we had to scour the vast world for appropriate locations. Ironically, the most appropriate location was within the inappropriate corner of Second-Life, but we managed.
 
