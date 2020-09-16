@@ -70,7 +70,7 @@ I attended a [Zoom Webinar](https://art-museum.unimelb.edu.au/events/webinar/?fb
 
 Christian Bök is a Canadian experimental poet, and a lecturer at Melbourne University. The project of his that fascinates me is *Xenotext*, one that he is on the verge of finishing. He proposes to engineer the first example of 'Living Poetry'. This involves translating a written poem through encipherment into a sequence of genetic nucleotides. The gene was built in a lab, and implanted into a bacterium. This bacterium has then become the living embodiment of the poem, and can, in turn, read and respond to the original text, generating a protein that can be translated back into an entirely new poem. He explains it quite well here: https://www.youtube.com/watch?v=P-ipaiZDYHM
 
-This truly revealed to me what multitudinous possibilities there are for the forms of which literature can take. Not only is there poetic computation (as termed by Zach Lieberman), but also poetic bacteria, living poetry. Perhaps there is already poetry within our environments, which only need by enciphered to be understood by us.
+This truly revealed to me what multitudinous possibilities there are for the forms of which literature can take. Not only is there poetic computation (as termed by Zach Lieberman), but also poetic bacteria, living poetry. Perhaps there is already poetry within our environments, which only need encipherment to be understood by us.
 
 In "What's Next For Text?", Lanham argues that text has always *wanted* to animate, because it always *has*, that it is *returning* to 3D space rather than entering a new dimension. Perhaps in engineering a poetic bacterium, we are returning poetry to the world, to its living state.
 
