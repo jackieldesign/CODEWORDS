@@ -16,4 +16,46 @@ Our live coding session with Karen introduced us to using the sound library that
 
 <img src="BLINK.JPG">
 
+## Prototype
+
+I found it difficult to visualise everything that I envisioned on a paper prototype.
+
+<img src="finalprototype.gif">
+
+### PSEUDOCODE
+
+```
+START
+
+  DISPLAY Live Video
+  DISPLAY "<- OSCILLATE ->"
+  SET driftSpeed = 0
+  SET sensorLeft = (x,y,w,h);
+  SET sensorRight = (x,y,w,h);
+  
+  IF user moves over sensorLeft || sensorRight THEN
+    INPUT new line of text
+    REMOVE "<- OSCILLATE ->"
+    
+  IF mouse over any word THEN
+    STOP word jitter
+    highlight word colour
+    
+  ELSE jitter words 
+    
+  ENDIF
+  
+  SET animations [ jitterdrift, 3Drotate ]
+  
+  FUNCTION mousePressed () {
+    IF on words THEN
+      words (random[animations])
+      driftSpeed += 1,
+    ENDIF
+  }
+  
+  
+END
+  
+```
 
