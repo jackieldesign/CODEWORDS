@@ -20,7 +20,7 @@ Our live coding session with Karen introduced us to using the sound library that
 
 I found it difficult to visualise everything that I envisioned on a paper prototype.
 
-<img src="finalprototype.gif">
+<p align="CENTER"><img src="finalprototype.gif"></p>
 
 ### PSEUDOCODE
 
