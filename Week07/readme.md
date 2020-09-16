@@ -74,4 +74,8 @@ This truly revealed to me what multitudinous possibilities there are for the for
 
 In "What's Next For Text?", Lanham argues that text has always *wanted* to animate, because it always *has*, that it is *returning* to 3D space rather than entering a new dimension. Perhaps in engineering a poetic bacterium, we are returning poetry to the world, to its living state.
 
+## Remix for next class
+
+Click [here](https://jackieliiu.github.io/CODEWORDS/Week07/newremix/MultipleBlinkEyes) to see the sligghtly iterated (and more creepy) version! I really would like to properly understand classes to be able to repeat objects without copy pasting all the time. I've done a tutorial but still really need practice to understand how to use it correctly, and remember all the syntax.
+
 
