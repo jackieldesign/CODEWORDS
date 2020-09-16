@@ -45,7 +45,7 @@ START
     
   ENDIF
   
-  SET animations [ jitterdrift, 3Drotate ]
+  SET animations [ jitterdrift, 3Dflyaway ]
   
   FUNCTION mousePressed () {
     IF on words THEN
