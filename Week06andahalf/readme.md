@@ -1,8 +1,5 @@
 # Midsem Break
 
-
-# MID-SEM BREAK
-
 I took some time to go through the entire reading to grasp the wider concepts that Lanham presented, and what he generally thought was next for text. Here are some notes I took, including some quotes (highlighted are concepts that I felt I could draw ideas from):
 
 <img src="ReadingNotes.jpg">
