@@ -76,6 +76,9 @@ In "What's Next For Text?", Lanham argues that text has always *wanted* to anima
 
 ## Remix for next class
 
-Click [here](https://jackieliiu.github.io/CODEWORDS/Week07/newremix/MultipleBlinkEyes) to see the sligghtly iterated (and more creepy) version! I really would like to properly understand classes to be able to repeat objects without copy pasting all the time. I've done a tutorial but still really need practice to understand how to use it correctly, and remember all the syntax.
+Click [here](https://jackieliiu.github.io/CODEWORDS/Week07/newremix/MultipleBlinkEyes) to see the slightly iterated (and more creepy) version! I really would like to properly understand classes to be able to repeat objects without copy pasting all the time. I've done a tutorial but still really need practice to understand how to use it correctly, and remember all the syntax.
+
+<img src="Screen Shot 2020-09-17 at 9.54.50 AM.JPG">
+
 
 
