@@ -1,1 +1,1 @@
-[click here to see a pose net test :)](https://jackieliiu.github.io/CODEWORDS/Week09/PoseNet101/)
+[click here to see a pose net test :)](CODEWORDS/Week09/PoseNet101/)
