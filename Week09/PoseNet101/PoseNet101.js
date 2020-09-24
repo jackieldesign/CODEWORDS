@@ -13,6 +13,7 @@ function setup(){
   poseNet = ml5.poseNet(video, modelLoaded);
   poseNet.on('pose', gotPoses);
   
+  
 }
 
 function gotPoses(poses) {
@@ -28,16 +29,22 @@ function modelLoaded() {
 
 function draw(){
   
+  background(220);
+  translate(video.width, 0);
+  scale (-1,1);
   image(video,0,0);  
   
   if (pose) {
     noStroke();
-    ellipse(pose.nose.x, pose.nose.y, 100);
+    ellipse(pose.rightEye.x, pose.rightEye.y, 80);
+    ellipse(pose.leftEye.x,pose.leftEye.y, 80);
     fill(200,250,0);
   }  
   
-  if ( mouseX > 320) { // will be tracking pose.nose.x instead of mouseX!! doesn't work at the moment
-    rect(40,40,60,60);
-  }
+  if (mouseX > 320) { // will be tracking pose.nose.x instead of mouseX!! doesn't work at the moment
+    textSize(70);
+    text('Hello',40,100);
   
+  }
+
 }
