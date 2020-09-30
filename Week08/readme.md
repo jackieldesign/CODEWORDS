@@ -33,8 +33,7 @@ My sister and I sat down last night to watch Graphic Means. It walked us through
 
 ### OTHER PROCESSING EXPERIMENTS
 
-<p align="CENTER">Slight iteration from last week's eye stuff. Bouncy!</p>
-[Try here :)](https://jackieliiu.github.io/CODEWORDS/Week08/bouncyeyes/bouncingeyes/)
+Slight iteration from last week's eye stuff. Bouncy! [Try it here :)](https://jackieliiu.github.io/CODEWORDS/Week08/bouncyeyes/bouncingeyes/)
 
 <p align="CENTER"><img src="bounceeyes.gif"></p>
   
