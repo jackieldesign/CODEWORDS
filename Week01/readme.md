@@ -30,6 +30,7 @@ We started off with the basics, but my mind was already blown. Rainbow circles!
 <p align="center"><img src="ezgif.com-video-to-gif (5).gif"><p>
 
 ## Initials
+
 [Click here!](https://jackieliiu.github.io/CODEWORDS/Week01/Initials/myinitials)
 We were given this task to do between our week 1 and week 2 classes. I decided to play more with the built-in mouseX mouseY variables, and create a playful and interactive sketch. I also made a grid for the background because I like grids. I think there's probably an easier way to do it, but it was kinda therapeutic and I haven't done mental maths in a while so it was good practice.
 
