@@ -21,5 +21,27 @@ I'm having a lot of trouble trying to cycle through the words of the array. I li
 
 I also would like to know how to do the same thing but have one word added a line underneath each time the reader oscillates, which the example above can be a vague representation of.
 
+<p align="CENTER"><img src="flyingcam.gif"></p>
+
+[Click here to try]()
+
+I decided to step away from trying to cycle through the words in my array to focus on other areas first.
+
+I managed to center the video, in the way it's pictured in my prototype. However, I played with mapping the video's position to the X & Y positions of the nose. This made me laugh a lot. This gif shows my sister and I having fun flying around the screen.
+
+I also made two separate strings of text so it feels more like reading whilst oscillating.
+
+I also tried to do time-revealed text in the center. I split the string with commas rather than spaces, achieving a kind of line-by-line reading. This is in the latest version which isn't pictured in the gif, you can see it if you try it yourself!
+
+## Next Steps—
+
+These are some ideas of what I may want to experiment with:
+
+- making words/lines of text seperately clickable, triggering them to oscillate off screen
+- choosing suitable typeface/s and colours.
+- trying to put this into WebGL space, possibly making the video on the surfaces of a 3D object, or just making the text fly off in a 3D manner. (I do like the 2D currently, but I really want to hint towards Lanham's belief that text is returning to 3D space through electronic literature).
+
+
+
 
 
