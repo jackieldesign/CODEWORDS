@@ -23,7 +23,7 @@ I also would like to know how to do the same thing but have one word added a lin
 
 <p align="CENTER"><img src="flyingcam.gif"></p>
 
-[Click here to try]()
+[Click here to try](https://jackieliiu.github.io/CODEWORDS/Week09/Test3/flyingwebcam/)
 
 I decided to step away from trying to cycle through the words in my array to focus on other areas first.
 
