@@ -6,7 +6,7 @@ After choosing our readings, we began to think about how to approach designing o
 
 The first activity we did in class involved making paper prototypes of vintage games. Firstly, this induced so much nostalgia! My group (Thomas, Peem and I) settled upon space invaders, a classic one that we thought would be rather straightforward and fun to prototype.
 
-<p align="center"<img src="IMG_20200827_115308.jpg"></p>
+<p align="center"><img src="IMG_20200827_115308.jpg"></p>
 
 Making a rough prototype from paper helped me to understand the benefits of it. Not only was it helpful to myself to understand the game and its separate elements, but also to anyone who I was explaining the game to, to see, frame by frame, how the game works. It was also kind of thrilling to do something so physically with my hands again, as if I were in a real life tutorial :'( The time limit given made the process even more energetic — sometimes I really need that to make my brain kick in.
 
