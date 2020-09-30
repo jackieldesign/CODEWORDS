@@ -12,6 +12,7 @@ I really want achieve getting text to appear every time the person on camera mov
 I was able to fix it by using a nested if statement to make sure a pose was detected before trying to detect the nose.x position!!! I found a more helpful error message in the console log that pointed that out for me.
 
 <p align="CENTER"><img src="TextReveal.gif"></p>
+
 [click here for some progress(?)](https://jackieliiu.github.io/CODEWORDS/Week09/PoseNet102/PoseNet102/)
 
 I ended up doing this weird thing when I properly split the string of text I put in. 
