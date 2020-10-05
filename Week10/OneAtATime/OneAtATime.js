@@ -53,13 +53,13 @@ function draw(){
     if (pose.nose.x > video.width/2) { // When you go LEFT
       for (i = 0; i < words.length; i++) {
         newObjects.push(new Sidewords(random(0,500),random(0,height),words[i],diam));
-        noLoop();
+//         noLoop();
       }
     }
     if (pose.nose.x < video.width/2) { // When you go RIGHT
       for (i = 0; i < words.length; i++) {
         newObjects.push(new Sidewords(random(width-500,width),random(0,height),words[i],diam));
-        loop();
+//         noLoop();
       }
     }
   }
