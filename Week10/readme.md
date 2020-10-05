@@ -22,6 +22,8 @@ Other things I changed:
 ### Update
 
 I got one full string to appear at the very start, but it won't continue...
+
 <img src="right.jpg">
+
 [Try Here](https://jackieliiu.github.io/CODEWORDS/Week10/OneAtATime/)
 
