@@ -18,6 +18,10 @@ Other things I changed:
 - Made some more elements responsive to the window size.
 - Added windowResize function to auto-resize when the window size is changed.
 
+
+### Update
+
+I got one full string to appear at the very start, but it won't continue...
 <img src="right.jpg">
 [Try Here](https://jackieliiu.github.io/CODEWORDS/Week10/OneAtATime/)
 
