@@ -11,3 +11,9 @@ SO! I need to find out how to make the loop only happen once each time. I tried 
 <img src="Ahh.jpg">
 
 [Try Here](https://jackieliiu.github.io/CODEWORDS/Week10/OscillatingWords_Class/)
+
+Other things I changed:
+
+- I enforced the video size so it would be the same for everyone's devices.
+- Made some more elements responsive to the window size.
+- Added windowResize function to auto-resize when the window size is changed.
