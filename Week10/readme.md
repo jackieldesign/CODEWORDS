@@ -23,7 +23,7 @@ Other things I changed:
 
 I got one full string to appear at the very start, but it won't continue...
 
-<img src="right.jpg">
+<img src="Screen Shot 2020-10-06 at 10.27.11 PM.jpg">
 
 [Try Here](https://jackieliiu.github.io/CODEWORDS/Week10/OneAtATime/)
 
