@@ -32,7 +32,13 @@ This strongly echoes a key conccept in my reading, "What's next for Text?", that
 ## GRAPHIC MEANS : THE HISTORY OF TYPOGRAPHY
 <p align="center"><img src="graphicmeans.jpg"></p>
 
-My sister and I sat down last night to watch Graphic Means. It walked us through the processes of cold typesetting, as well as the historical milestones of the developments of typography. One part that especially piqued my interest was the punched card that they used in typesetting
+My sister and I sat down last night to watch Graphic Means. It walked us through the processes of cold typesetting, as well as the historical milestones of the developments of typography. One part that especially piqued my interest was the punched tape that they used as a code. 
+
+It was fascinating to understand that, since the beginning, code has been a fundamental part of type. 
+
+"It was all coding. Nothing was WYSIWYG back then. But, if you got that coding wrong, you had massive amounts of white, blank paper coming out of the proofer so that was very unfortunate." This quote reminded me so much of how I first felt when I began coding - there was this anticipation built from writing the code and having it mentally visualised but not yet run in the browser. It was incredibly exciting but much more difficult, as it's essentially like making art blindfolded.
+
+Now to think that this same kind of process was applied to early typesetting, I realise how closely tied typography is to code.
 
 <p align="center"><img src="punchedcard.jpg"></p>
 <p align="center"><img src="Screen Shot 2020-10-07 at 5.16.59 PM.jpg"></p>
