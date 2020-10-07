@@ -35,7 +35,7 @@ This strongly echoes a key conccept in my reading, "What's next for Text?", that
 My sister and I sat down last night to watch Graphic Means. It walked us through the processes of cold typesetting, as well as the historical milestones of the developments of typography. One part that especially piqued my interest was the punched card that they used in typesetting
 
 <p align="center"><img src="punchedcard.jpg"></p>
-<p align="center"><img src="Screen Shot 2020-10-07 at 5.16.59 PM.jpg.jpg"></p>
+<p align="center"><img src="Screen Shot 2020-10-07 at 5.16.59 PM.jpg"></p>
 
 ## TRYING 3D GEOMETRY IN WEBGL
 <p align="center">a whole new world!!</p>
