@@ -27,3 +27,7 @@ I got one full string to appear at the very start, but it won't continue...
 
 [Try Here](https://jackieliiu.github.io/CODEWORDS/Week10/OneAtATime/)
 
+### Myron Krueger — Early Interactivity
+
+Myron Krueger is a computer artist who originally emerged from computer science.
+
