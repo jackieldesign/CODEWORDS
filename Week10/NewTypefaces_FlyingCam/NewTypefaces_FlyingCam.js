@@ -25,7 +25,7 @@ function preload() {
 }
 
 function setup(){
-  createCanvas(windowWidth,windowHeight);
+  createCanvas(windowWidth,windowHeight+300);
   background(255,244,94);
   video.hide();
   poseNet = ml5.poseNet(video, modelLoaded);
