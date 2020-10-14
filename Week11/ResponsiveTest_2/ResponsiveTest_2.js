@@ -95,7 +95,7 @@ function gotPoses(poses) {
   console.log(poses); // write all poses in console log
     if (poses.length > 0) { // if a pose is found
       pose = poses[0].pose; // take first pose property from poses array (not skeleton)
-      camx = map(pose.nose.x,video.width/16,video.width,(-video.width),width); // map video x position to pose x position
+      camx = map(pose.nose.x,video.width/16,video.width,(-video.width),width+video.width); // map video x position to pose x position
       camy = map(pose.nose.y,video.height/2.4,video.height,0,height); // map video y position to nose y position
       
       // making words appear when you go left and right
