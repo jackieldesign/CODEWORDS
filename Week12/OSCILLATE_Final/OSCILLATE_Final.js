@@ -31,7 +31,7 @@ function preload() {
   video = createCapture(VIDEO);
   font1 = loadFont('data/Redaction20-Regular.otf');
   font2 = loadFont('data/Redaction10-Italic.otf');
-  font3 = loadFont('data/Union-Italic.otf');
+  font3 = loadFont('data/Arial-Italic.ttf');
 }
 
 function setup(){
@@ -51,14 +51,14 @@ function modelLoaded() {
 function draw(){
   background(16,60,100);
 
-  // Flip video & posenet
+  // Flip & center video & posenet
   push(); 
   translate(video.width/2+width/2, height/2-(video.height/2));
   scale (-1,1); 
   blendMode(MULTIPLY);
   image(video,camx-(video.width/2),camy-(video.height/2), videosize, videosize/4*3);  // drawing video to the screen. Enforcing video dimensions of 640,480
   videosize = map(width, 0,1800,200,640); // making video responsive to width
-  pop(); // do not flip anything else
+  pop(); // do not flip & translate anything else
   
   // Title
   push();
@@ -72,7 +72,7 @@ function draw(){
   titleY = map(width,0,1800,0,220);
   pop(); // do not stretch anything else
   
-  //Paragraph with timed line by line reveal, starts after 150 frames
+  //Paragraph with timed line by line reveal, starts after 100 frames
   fill (16,60,100);
   textSize(16);
   textAlign(CENTER);
@@ -121,5 +121,4 @@ function gotPoses(poses) {
 
 function windowResized() {
   resizeCanvas(windowWidth, windowHeight); // Canvas size changes when window resized.
-  
 }
