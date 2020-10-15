@@ -1,7 +1,10 @@
-// Hello! Welcome to my code world
-// Original posenet code from Daniel Shiffman using ml5 Library
-// Code by Jackie Liu
-// Sidewords class written in a separate tab.
+// \(^-^)/
+//
+// ‘OSCILLATE’ Code by Jackie Liu
+// Words from Richard A. Lanham’s “What’s Next for Text”(2001)
+// Original posenet code from Daniel Shiffman
+// Using ml5.js Library
+// 'Sidewords' class written in a separate tab.
 
 // Left side sentence
 let sentence = 'Static, static, static! Be static! Movement is static! Movement is static! Movement is static! Static, static, static! Be static! Movement is static!';
@@ -18,7 +21,6 @@ let paragraph = ' When the scarce commodity is not stuff, however, but the atten
 let myText = paragraph.split(','); // paragraph is split by commas, to reveal line by line.
 
 let newObjects = []; // array to push Sidewords class (in 'Sidewords' tab)
- // text size of sidewords.
 let poseNet, pose, video, phrase, phrase2;
 let videosize, titlesize, titleY, tSize; // responsive text variables
 let marginX = 40;
@@ -41,7 +43,6 @@ function setup(){
   poseNet = ml5.poseNet(video, modelLoaded);
   poseNet.on('pose', gotPoses); // listen to new 'pose' events
   
-
 }
 
 function modelLoaded() {
@@ -69,17 +70,17 @@ function draw(){
   textFont(font1);
   scale(1,1.5); // Stretch text vertically
   text('OSCILLATE',0,titleY);
-  titleY = map(width,0,1800,0,220);
+  titleY = map(width,0,1800,0,220); // Title Y position responsive to width
   pop(); // do not stretch anything else
   
-  //Paragraph with timed line by line reveal, starts after 100 frames
+  //Paragraph with timed line by line reveal 
   fill (16,60,100);
   textSize(16);
   textAlign(CENTER);
   textFont(font3);
   
   for (let i = 0; i < paragraph.length; i++){
-    if ( frameCount > i*20+100) { 
+    if ( frameCount > i*20+100) { // add new line after every 20 frames, starting after 100 frames
       text (myText[i], int(width/4), (height/3)+i*20, int(width/2), height);
     }
   }
@@ -101,14 +102,14 @@ function gotPoses(poses) {
       // making words appear when you go left and right
       phrase = words[wordcounter];
       phrase2 = words2[wordcounter2];
-      if (pose.nose.x > video.width/2) { // If you go LEFT
+      if (pose.nose.x > video.width/4*3) { // If you go LEFT
         newObjects.push(new Sidewords(marginX,(wordcounter*tSize)+(titleY*2),phrase,tSize,LEFT)); 
         if (wordcounter < words.length) {
           wordcounter += 1; // move up 1 in the 'words' array
         } else {
           wordcounter = 0; // When the array is finished, return to beginning of array.
         }
-      } else { // If you go RIGHT
+      } else if (pose.nose.x < video.width/3) { // If you go RIGHT
         newObjects.push(new Sidewords(width-marginX,(wordcounter2*tSize)+(titleY*2),phrase2,tSize,RIGHT));
         if (wordcounter2 < words2.length) { 
           wordcounter2 += 1; // move up 1 in the 'words2' array
