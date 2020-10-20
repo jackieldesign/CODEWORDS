@@ -36,3 +36,5 @@ We also helped each other familiarise ourselves with customising our avatars. Si
 Have finally started learning processing outside of class! Made a desert-reminiscent abstract sketch.
 
 <p align="center"><img src="ILoveDanShiffman.gif"></p>
+
+## [WEEK 04](https://jackieliiu.github.io/CODEWORDS/Week04/)
