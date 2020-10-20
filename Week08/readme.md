@@ -36,7 +36,7 @@ My sister and I sat down last night to watch Graphic Means. It walked us through
 
 It was fascinating to understand that, since the beginning, code has been a fundamental part of type. 
 
-"It was all coding. Nothing was WYSIWYG back then. But, if you got that coding wrong, you had massive amounts of white, blank paper coming out of the proofer so that was very unfortunate." This quote reminded me so much of how I first felt when I began coding - there was this anticipation built from writing the code and having it mentally visualised but not yet run in the browser. It was incredibly exciting but much more difficult, as it's essentially like making art blindfolded.
+>It was all coding. Nothing was WYSIWYG back then. But, if you got that coding wrong, you had massive amounts of white, blank paper coming out of the proofer so that was very unfortunate." This quote reminded me so much of how I first felt when I began coding - there was this anticipation built from writing the code and having it mentally visualised but not yet run in the browser. It was incredibly exciting but much more difficult, as it's essentially like making art blindfolded.
 
 Now to think that this same kind of process was applied to early typesetting, I realise how closely tied typography is to code.
 
