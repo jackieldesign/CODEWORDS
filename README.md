@@ -12,3 +12,5 @@ Because i was too scared of Github earlier in the semester, I compiled many anyt
 ## [WEEK 08](https://jackieliiu.github.io/CODEWORDS/Week08/)
 ## [WEEK 09](https://jackieliiu.github.io/CODEWORDS/Week09/)
 ## [WEEK 10](https://jackieliiu.github.io/CODEWORDS/Week10/)
+## [WEEK 11](https://jackieliiu.github.io/CODEWORDS/Week11/)
+## [WEEK 12](https://jackieliiu.github.io/CODEWORDS/Week12/)
