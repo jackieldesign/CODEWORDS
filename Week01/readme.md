@@ -16,7 +16,7 @@ I'd say around a third of my closest friends are studying computer science, and 
 
 - How far can you extend the definition of code/language?
 - Is typography essential to reading?
-- Can e-literature extend further than the digital space?
+- How can e-literature extend out of our devices?
 
 
 # In Class—
