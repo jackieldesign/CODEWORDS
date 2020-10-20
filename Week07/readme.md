@@ -80,5 +80,5 @@ Click [here](https://jackieliiu.github.io/CODEWORDS/Week07/newremix/MultipleBlin
 
 <img src="Screen Shot 2020-09-17 at 9.54.50 AM.JPG">
 
-
+## [WEEK 08](https://jackieliiu.github.io/CODEWORDS/Week08/)
 
