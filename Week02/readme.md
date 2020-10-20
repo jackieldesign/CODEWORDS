@@ -38,3 +38,5 @@ Tayla hacking my code.
 
 <img src="Screen Shot 2020-09-03 at 7.52.42 PM.JPG">
 Our little second life group was born in week 1, and we'd already had played around a bit to get used to the platform and controls. Exploring camera controls, avatar options and locations. Second life is a bizarre and almost limitless place.
+
+## [WEEK 03](https://jackieliiu.github.io/CODEWORDS/Week03/)
