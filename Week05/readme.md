@@ -31,3 +31,5 @@ Other than this, I think we did witness and create a rather haunting piece of e-
 I've been doing processing tutorials in my spare time and thoroughly enjoying it. I learnt about conditional logic and boolean variables, and so far have made this thing [here](https://jackieliiu.github.io/CODEWORDS/Week05/ConditionalLogic/conditionallogic).
 
 <p align="center"><img src="ConditionalLogic.gif"></p>
+
+## [WEEK 06](https://jackieliiu.github.io/CODEWORDS/Week06/)
