@@ -58,3 +58,5 @@ Slight iteration from last week's eye stuff. Bouncy! [Try it here :)](https://ja
 <p align="CENTER"><img src="paintingsquares.gif"> </p>
 
 <img src="paintingsquares.jpg">
+
+## [WEEK 09](https://jackieliiu.github.io/CODEWORDS/Week09/)
