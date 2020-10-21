@@ -18,11 +18,11 @@ After this, we took a collaborative approach to editing. Each of us screen recor
 
 ## Poem Field No. 1 (1967)
 
-[Poem Field No. 1](https://www.youtube.com/watch?v=OsNmrCgwwQM) is an early computer animation from Stan VanDerBeek and Ken Knowlton in 1967. My sister showed it to me one day, and I just found it jaw-dropping. It's a silent film, made using Ken Knowlton's BEFLIX language and conceived by visual artist Stan VanDerBeek. This was part of a program at Bell Labs which had early computer scientists collaborating with artists.
+Poem Field No. 1 is an early computer animation from Stan VanDerBeek and Ken Knowlton in 1967. My sister showed it to me one day, and I just found it jaw-dropping. It's a silent film, made using Ken Knowlton's BEFLIX language and conceived by visual artist Stan VanDerBeek. This was part of a program at Bell Labs which had early computer scientists collaborating with artists.
 
 The visual transitions and effects makes this poetry reading experience overwhelmingly visceral and memorable. There is a beauty in being able to watch pixels moving around, conveying meanings of words, creating illusions of layers, and fascinating abstract shapes. How come I don't know how to do that in 2020??
 
-As soon as I saw this I was reminded of our session on Modular Typography. When you can see how a designer/artist has chosen to convey a message using basic units, you're let in on at least a sliver of their mode of thinking, and realise how genius those choices really are.
+As soon as I saw this I was reminded of our session on Modular Typography. When you can see how a designer/artist has chosen to convey a message using basic units, you're let in on at least a sliver of their mode of thinking, and realise how genius those choices really are. You can watch it [here](https://www.youtube.com/watch?v=OsNmrCgwwQM).
 
 <img src="PoemField.jpg"><img src="Place.jpg">
 
