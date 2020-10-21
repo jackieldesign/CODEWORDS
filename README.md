@@ -8,7 +8,8 @@ Because I was too scared of Github earlier in the semester, I compiled many anyt
 ## [WEEK 04](https://jackieliiu.github.io/CODEWORDS/Week04/) | Type in Processing 
 ## [WEEK 05](https://jackieliiu.github.io/CODEWORDS/Week05/) | Re-Readings Presentations!
 ## [WEEK 06](https://jackieliiu.github.io/CODEWORDS/Week06/) | Prototyping & Pseudocode
-## [WEEK 07](https://jackieliiu.github.io/CODEWORDS/Week07/) | Midsem Break
+## [WEEK 06 (and a half)](https://jackieliiu.github.io/CODEWORDS/Week06andahalf/) | Midsem Break
+## [WEEK 07](https://jackieliiu.github.io/CODEWORDS/Week07/) | Sound in Processing
 ## [WEEK 08](https://jackieliiu.github.io/CODEWORDS/Week08/) | Prototypes, Posenet & Experiments
 ## [WEEK 09](https://jackieliiu.github.io/CODEWORDS/Week09/) | Building Bricks
 ## [WEEK 10](https://jackieliiu.github.io/CODEWORDS/Week10/) | WIP Presentations
