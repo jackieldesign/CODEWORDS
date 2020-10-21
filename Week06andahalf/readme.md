@@ -99,4 +99,19 @@ START
 
       
 ```
+
+## Zach Lieberman
+
+I found Zach Lieberman through WeTransfer, funnily enough. His [Colorpush](https://colorpush.wetransfer.com/) collaboration with them was an incredible example of interactive code, and really gorgeous to watch. I loved the concept of pushing and mixing colours with your face and body, getting physically involved in digital creation.
+
+Zach Lieberman is n American new media artist, programmer, designer and educator. He helped to create the School for Poetic Computation, and continues to label his practice as poetic computation. This is a wonderfully resonant way to describe what I feel I'm learning in this studio. Watching his [AIGA talk](https://youtu.be/bmztlO9_Wvo) about Poetic Computation introduced me to significant people in the early days of this field, such as Vera Molnar and Muriel Cooper. Zach's motto of 'always be iterating' particularly stuck with me. It's interesting the pressure we feel to finish things, complete projects. Everything we're making often feels like they must have a final state. The idea of continuing to iterate and let something grow, change and adapt as if it were an organism is quite foreign to me, and in such a way that it's liberating.
+
+The more I learn about creative code, the more I want to deep-dive into it. It's an attractively refreshing field that almost detaches itself from the pomp and circumstance that the graphic design field often exudes, and there's something about this community that's just so... warm? I don't know, am I romanticising it? Sorry, I'm a bit off topic now. TLDR; I really want to keep coding.
+
+The works I found from his projects with Golan Levin as [Tmema](https://vimeo.com/tmema) were really inspiring. They created installations/performance works that are responsive to movement and sound. In the work "Messa di Voce" they use this to tell a narrative:
+
+<img src="pitchpaint.jpg">
+
+I find 'Pitch Paint' an especially captivating scene, as the performers use their voices to control the direction, speed and size of a painting blob. Both of them have their own blob, and it feels as if they're dancing together with their voices.
+
 ## [WEEK 07](https://jackieliiu.github.io/CODEWORDS/Week07/)
