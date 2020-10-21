@@ -32,4 +32,16 @@ I've been doing processing tutorials in my spare time and thoroughly enjoying it
 
 <p align="center"><img src="ConditionalLogic.gif"></p>
 
-## [WEEK 06](https://jackieliiu.github.io/CODEWORDS/Week06/)
+### Babel —
+
+Last semester Karen directed me to a White Cube online exhibition that I had to give my email to in order to access. Earlier in July they sent me an email about this new exhibition, called [*Babel*](https://whitecube.viewingrooms.com/viewing-room/40-babel/), which is all about language, communication and typography. It includes a poetic quote from Penelope Lively, *"Language tethers us to the world. Without it, we spin like atoms."*
+
+There were some incredible works there, and I was particularly pleased to find ones that used some kind of code. 
+
+<img src="Babel.JPG">
+<img src="Babel2.JPG">
+
+This flickering chandelier piece especially interests me, and gets me thinking about morse code. It's so exciting to think that language and words can still exist in a piece that is so purely object/image.
+___
+
+## [WEEK 04](https://jackieliiu.github.io/CODEWORDS/Week04/) | [WEEK 06](https://jackieliiu.github.io/CODEWORDS/Week06/)
