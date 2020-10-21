@@ -114,4 +114,6 @@ The works I found from his projects with Golan Levin as [Tmema](https://vimeo.co
 
 I find 'Pitch Paint' an especially captivating scene, as the performers use their voices to control the direction, speed and size of a painting blob. Both of them have their own blob, and it feels as if they're dancing together with their voices.
 
+___
+
 ## [WEEK 06](https://jackieliiu.github.io/CODEWORDS/Week05/) | [WEEK 07](https://jackieliiu.github.io/CODEWORDS/Week07/)
