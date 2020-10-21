@@ -29,7 +29,25 @@ I got one full string to appear at the very start, but it won't continue...
 
 ### Myron Krueger — Early Interactivity
 
-Myron Krueger is a computer artist who originally emerged from computer science.
+<p align="CENTER"><img src="MK1.jpg">  <img src="MK2.jpg"></p>
 
-## [WEEK 11](https://jackieliiu.github.io/CODEWORDS/Week11/)
+Myron Krueger is one of the first computer artists to create digital interactive works. I first found his work "Videoplace" who originally studied computer science. 
+
+<img src="MK3.jpg">
+
+### Red Burns — Godmother of Silicon Valley
+
+In several of Dan Shiffman's videos, he mentioned Red Burns and the quote that "She knew that technology was a means to an end. And that end is people." I think this philosophy is one that the Interactive Telecommunications Program (ITP) school she founded was built around. It's an integral focus to the field of computer arts, and I'd argue it's essential to remember in any field requiring technology.
+
+I read an [article about Red Burns](https://www.theatlantic.com/technology/archive/2013/08/pearls-wisdom-tech-world-red-burns-godmother-silicon-alley/311722/)] from the Atlantic in 2013. She's not only a historical leader in tech, but has also provided the world with some beautiful pieces of advice.
+
+<img src="RedBurnsQuotes.jpg">
+
+Funnily enough, she states an opinion that echoes Andy, saying that the computer is just a tool, like a pen. Except Andy was talking about Adobe :')
+
+Thinking about technology in a way that considers the world and its needs is so crucial. We can get carried away with the glamour of it - but focusing on becoming people rather than technicians is something we should really strive for.
+
+___
+
+## [WEEK 09](https://jackieliiu.github.io/CODEWORDS/Week09/) | [WEEK 11](https://jackieliiu.github.io/CODEWORDS/Week11/)
 
