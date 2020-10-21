@@ -16,4 +16,17 @@ This worked very successfully! Reshooting was a great choice, in my opinion, esp
 
 After this, we took a collaborative approach to editing. Each of us screen recorded certain sections of the video, and would edit it ourselves before compiling it together into one. This was super interesting as we had never seen the footage or perspective of the other group-members as they filmed, and had to wait for the compilation to see how the entire video turned out. it was amazing, and mostly hilarious, to watch the outcome. I was truly impressed.
 
-## [WEEK 05](https://jackieliiu.github.io/CODEWORDS/Week05/)
+## Poem Field No. 1 (1967)
+
+[Poem Field No. 1](https://www.youtube.com/watch?v=OsNmrCgwwQM) is an early computer animation from Stan VanDerBeek and Ken Knowlton in 1967. My sister showed it to me one day, and I just found it jaw-dropping. It's a silent film, made using Ken Knowlton's BEFLIX language and conceived by visual artist Stan VanDerBeek. This was part of a program at Bell Labs which had early computer scientists collaborating with artists.
+
+The visual transitions and effects makes this poetry reading experience overwhelmingly visceral and memorable. There is a beauty in being able to watch pixels moving around, conveying meanings of words, creating illusions of layers, and fascinating abstract shapes. How come I don't know how to do that in 2020??
+
+As soon as I saw this I was reminded of our session on Modular Typography. When you can see how a designer/artist has chosen to convey a message using basic units, you're let in on at least a sliver of their mode of thinking, and realise how genius those choices really are.
+
+<img src="PoemField.jpg"><img src="Place.jpg">
+
+
+___
+
+## [WEEK 03](https://jackieliiu.github.io/CODEWORDS/Week03/) | [WEEK 05](https://jackieliiu.github.io/CODEWORDS/Week05/)
