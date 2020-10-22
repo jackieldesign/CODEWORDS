@@ -2,7 +2,7 @@
 
 ### Code Progress
 
-I finally managed to get these words appearing! After consulting with Karen about my problem, I realised I had to move most of my Posenet code into the gotPoses function and that I didn't need to . I also had to make 2 separate counting variables (wordcounter1, wordcounter2), as before I was using the same general [i] variable inside a loop, which Karen informed me I didn't really need. I made these counters go back to 0 when they were maxed out, so that the words would continue writing again and again.
+I finally managed to get these words appearing! After consulting with Karen about my problem, I realised I had to move most of my Posenet code into the gotPoses function. I also had to make 2 separate counting variables (wordcounter1, wordcounter2), as before I was using the same general [i] variable inside a loop, which Karen informed me I didn't really need. I made these counters go back to 0 when they were maxed out, so that the words would continue writing again and again.
 
 This worked to get the words revealing with my oscillation. However it was still not exactly the experience I wanted, since I didn't want the entire reading experience to just be ONE oscillation of the reader's body, but a labour-intensive one in which the user *must* switch sides to get one new word. 
 
