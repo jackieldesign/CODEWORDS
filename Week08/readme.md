@@ -61,4 +61,4 @@ Slight iteration from last week's eye stuff. Bouncy! [Try it here :)](https://ja
 
 <img src="paintingsquares.jpg">
 
-## [WEEK 09](https://jackieliiu.github.io/CODEWORDS/Week09/)
+### [<< WEEK 09](https://jackieliiu.github.io/CODEWORDS/Week09/) | [WEEK 09 >>](https://jackieliiu.github.io/CODEWORDS/Week09/)
