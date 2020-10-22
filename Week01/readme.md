@@ -43,5 +43,7 @@ We were given this task to do between our week 1 and week 2 classes. I decided t
 ### Notes
 <img src="CWNotes7.jpg">
 
-## [WEEK 02](https://jackieliiu.github.io/CODEWORDS/Week02/)
+___
+
+### [WEEK 02 >>](https://jackieliiu.github.io/CODEWORDS/Week02/)
 
