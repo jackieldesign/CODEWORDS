@@ -116,4 +116,4 @@ I find 'Pitch Paint' an especially captivating scene, as the performers use thei
 
 ___
 
-## [WEEK 06](https://jackieliiu.github.io/CODEWORDS/Week05/) | [WEEK 07](https://jackieliiu.github.io/CODEWORDS/Week07/)
+### [<< WEEK 06](https://jackieliiu.github.io/CODEWORDS/Week05/) | [WEEK 07 >>](https://jackieliiu.github.io/CODEWORDS/Week07/)
