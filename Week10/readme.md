@@ -1,10 +1,12 @@
-# WEEK 10 — PRESENTATIONS, TYPOGRAPHY AND NEXT STEPS
+# WEEK 10 — WIP PRESENTATIONS, TRIALS & ERRORS
 
-Have been trying to figure out how to get one word to appear at a time each oscillation. Been doing this for a week, not sure why I'm taking so long because I think this should have a simple solution!
+This week we presented where we were up to with our code. [This is mine](https://jackieliiu.github.io/CODEWORDS/Week09/Test3/flyingwebcam/). 
 
-I stripped the whole sketch back so I could focus on this one goal.
+When Karen used it, I realised that her camera size much larger and 
 
-I added a class, and pushed them from an array according to the X position of the nose, so I think that's a step in the right direction. They do appear one at a time! However, they appear very quickly and keep looping...
+### Working on it...
+
+I've been trying to figure out how to get one word to appear at a time each oscillation. Been doing this for a week, not sure why I'm taking so long because I think this should have a simple solution! I stripped the whole sketch back so I could focus on this one goal. I added a class, and pushed them from an array according to the X position of the nose, so I think that's a step in the right direction. They do appear one at a time! However, they appear very quickly and keep looping...
 
 SO! I need to find out how to make the loop only happen once each time. I tried using a boolean variable, but that resulted in only the first word appearing. I also tried noLoop(); but this freezes the entire draw function.
 
@@ -31,7 +33,7 @@ I got one full string to appear at the very start, but it won't continue...
 
 <p align="CENTER"><img src="MK1.jpg">  <img src="MK2.jpg"></p>
 
-Myron Krueger is one of the first computer artists to create digital interactive works. He is said to be one of the first generation of researchers exploring artificial/virtual reality and augmented reality. I first found his work [*Videoplace (1985)*](https://www.youtube.com/watch?v=d4DUIeXSEpk), and from that, I went on to watch a short interview with Krueger in [this video](https://www.youtube.com/watch?v=dmmxVA5xhuo) where he states:
+I found Myron Krueger this week through someone I follow sharing his work [*Videoplace (1985)*](https://www.youtube.com/watch?v=d4DUIeXSEpk) online. Myron Krueger is one of the first computer artists to create digital interactive works. He is said to be one of the first generation of researchers exploring artificial/virtual reality and augmented reality. I went on to watch a short interview with Krueger in [this video](https://www.youtube.com/watch?v=dmmxVA5xhuo) where he states:
 
 > “I resented the fact that [the computer] was denying that I had a body of any kind, and that it wasn't perceptual, it was all sort of symbolic. [...] We just discovered there was this very natural desire for someone to identify with the image on the screen. Their image was them and they expected it to do things in the video world to do as much as it did in the physical world. It was as if evolution had prepared us for seeing ourselves on television screens combined with the computer."
 
@@ -49,7 +51,7 @@ I read an [article about Red Burns](https://www.theatlantic.com/technology/archi
 
 Funnily enough, she states an opinion that echoes Andy, saying that the computer is just a tool, like a pen. Except Andy was talking about Adobe :')
 
-Thinking about technology in a way that considers the world and its needs is so crucial. We can get carried away with the glamour of it - but focusing on becoming people rather than technicians is something we should really strive for.
+Thinking about technology in a way that considers the world and its needs is so crucial. We can get carried away with the glamour of it, but retaining that focus on becoming people rather than technicians is something we should really strive for.
 
 ___
 
