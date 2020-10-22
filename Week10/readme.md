@@ -31,7 +31,11 @@ I got one full string to appear at the very start, but it won't continue...
 
 <p align="CENTER"><img src="MK1.jpg">  <img src="MK2.jpg"></p>
 
-Myron Krueger is one of the first computer artists to create digital interactive works. I first found his work "Videoplace" who originally studied computer science. 
+Myron Krueger is one of the first computer artists to create digital interactive works. He is said to be one of the first generation of researchers exploring artificial/virtual reality and augmented reality. I first found his work [*Videoplace (1985)*](https://www.youtube.com/watch?v=d4DUIeXSEpk), and from that, I went on to watch a short interview with Krueger in [this video](https://www.youtube.com/watch?v=dmmxVA5xhuo) where he states:
+
+> “I resented the fact that [the computer] was denying that I had a body of any kind, and that it wasn't perceptual, it was all sort of symbolic. [...] We just discovered there was this very natural desire for someone to identify with the image on the screen. Their image was them and they expected it to do things in the video world to do as much as it did in the physical world. It was as if evolution had prepared us for seeing ourselves on television screens combined with the computer."
+
+This natural desire he speaks of is one I want to play with and combine with reading in my own work. Even from these old videos I can feel the enormous affect of digital interactivity. I want the user to have this same feeling of control over their own experience, yet at the same time, the loss of it when the letters themselves are  oscillating away, when the experience seems to have a mind of their own. 
 
 <img src="MK3.jpg">
 
