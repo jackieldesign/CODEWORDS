@@ -2,6 +2,8 @@
 
 [click here to see a pose net test!](https://jackieliiu.github.io/CODEWORDS/Week09/PoseNet101/)
 
+### DURING THE TUTORIAL:
+
 I tried to trigger the "hello" to appear with the x position of the nose ( pose.nose.x ) but when I tried to do it was blank. 
 For now I'm just using mouseX. 
 
@@ -31,7 +33,7 @@ I managed to center the video, in the way it's pictured in my prototype. However
 
 I also made two separate strings of text so it feels more like reading whilst oscillating.
 
-I also tried to do time-revealed text in the center. I split the string with commas rather than spaces, achieving a kind of line-by-line reading. This is in the latest version which isn't pictured in the gif, you can see it if you try it yourself!
+And finally, I made a time-revealed paragraph in the center. I split the string with commas rather than spaces, achieving a kind of line-by-line reading. This isn't pictured in the gif, but you can see it if you try it yourself!
 
 ## Next Steps—
 
