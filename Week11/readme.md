@@ -34,11 +34,9 @@ Trying out the THRESHOLD filter, and I kind of love this as it really reminds me
 
 <img src="threshold.jpg">
 
+## [NEW DESIGN!](https://jackieliiu.github.io/CODEWORDS/Week10/NewTypefaces_FlyingCam/)
 
-
-
-
-[click here for new test](https://jackieliiu.github.io/CODEWORDS/Week10/NewTypefaces_FlyingCam/)
+___
 
 ### Making it Responsive
 
