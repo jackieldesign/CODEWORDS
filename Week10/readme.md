@@ -2,11 +2,12 @@
 
 This week we presented where we were up to with our code. [This is mine](https://jackieliiu.github.io/CODEWORDS/Week09/Test3/flyingwebcam/). 
 
-When Karen used it, I realised that her camera size much larger and 
+When Karen used it, I realised that her camera size/resolution was much larger than the standard 640 x 480, so I'd have to enforce that size in the code incase others have different sizes too. That was a great reminder for me to consider different settings people may have on their devices. I needed to clean up the consistency of my code, and also figure out how to reveal one word with every side-to-side oscillation. Other than that, I'm really pleased with the progress made since last week!
+
 
 ### Working on it...
 
-I've been trying to figure out how to get one word to appear at a time each oscillation. Been doing this for a week, not sure why I'm taking so long because I think this should have a simple solution! I stripped the whole sketch back so I could focus on this one goal. I added a class, and pushed them from an array according to the X position of the nose, so I think that's a step in the right direction. They do appear one at a time! However, they appear very quickly and keep looping...
+I've been trying to figure out how to get one word to appear at a time with each oscillation. Been doing this for a week, not sure why I'm taking so long because I think this should have a simple solution! I stripped the whole sketch back so I could focus on this one goal. I finally added a class (I was avoiding this because I'm scared of classes but I knew it was coming), and pushed them from an array according to the X position of the nose, so I think that's a step in the right direction. They do appear one at a time! However, they appear very quickly and keep looping...
 
 SO! I need to find out how to make the loop only happen once each time. I tried using a boolean variable, but that resulted in only the first word appearing. I also tried noLoop(); but this freezes the entire draw function.
 
