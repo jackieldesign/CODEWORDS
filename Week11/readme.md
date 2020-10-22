@@ -22,21 +22,19 @@ ___
 
 I didn't have a visual expectation for this idea when I had first made this prototype, so as I felt a little lost for direction, I decided that I'd make a mockup of what I wanted on illustrator first. 
 
-The idea I settled upon is to pay homage to print, whilst also acknowledging its changing affect in a new digital environment. I'm planning on finding out a way to make the image black and white to go with that idea. I'm using a typeface called Redaction (https://www.redaction.us/), and the pixelised serif is one that I feel goes well with the theme of my reading, since it's almost like capturing the transition from print to digital. This is the 
+The idea I settled upon is to pay homage to print, whilst also acknowledging its changing affect in a new digital environment. I'm planning on finding out a way to make the image black and white to go with that idea. I'm using a typeface called Redaction (https://www.redaction.us/), and the pixelised serif is one that I feel goes well with the theme of my reading, since it's almost like capturing the transition from print to digital. This is the mockup:
 
 <img src="Mockup.jpg">
 
-Mockup I made on Illustrator
-
+First Iteration of my code to build towards my mockup. Using the 'DARKEST' blending mode for the video, as the GRAY filter made the entire sketch black and white. I thought I could possibly fix this using createGraphics, but for some reason this didn't work either.
 
 <img src="FirstIteration.jpg">
 
-First Iteration of my code to build towards my mockup. Using a MULTIPLY blending mode for the video, as the GRAY filter made the entire sketch black and white. I thought I could possibly fix this using createGraphics, but for some reason this didn't work either.
-
+Trying out the THRESHOLD filter, and I kind of love this as it really reminds me of badly scanned readings. But I'm also a huge fan of the yellow page and think it's probably more visually stimulating.
 
 <img src="threshold.jpg">
 
-Trying out the THRESHOLD filter, and I kind of love this as it really reminds me of badly scanned readings. But I'm also a huge fan of the yellow page and think it's probably more visually stimulating.
+
 
 
 
