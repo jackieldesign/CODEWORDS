@@ -58,4 +58,4 @@ Another thing that I had hard-coded was the X & Y positions of the flying webcam
 
 ___
 
-## [WEEK 10](https://jackieliiu.github.io/CODEWORDS/Week10/) | [WEEK 12](https://jackieliiu.github.io/CODEWORDS/Week12/)
+### [<< WEEK 10](https://jackieliiu.github.io/CODEWORDS/Week10/) | [WEEK 12 >>](https://jackieliiu.github.io/CODEWORDS/Week12/)
