@@ -55,4 +55,6 @@ and lastly,
 
 [Here](https://jackieliiu.github.io/CODEWORDS/Week06/springparag/springparag/) is the springy paragraph we did in class that excites me very much. Sin waves!!?
 
-## [WEEK 06 (and a half)](https://jackieliiu.github.io/CODEWORDS/Week06andahalf/)
+___
+
+###  [<< WEEK 07](https://jackieliiu.github.io/CODEWORDS/Week07/) | [WEEK 06 (and a half) >>](https://jackieliiu.github.io/CODEWORDS/Week06andahalf/)
