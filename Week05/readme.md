@@ -46,4 +46,4 @@ There were some incredible works there, and I was particularly pleased to find o
 This flickering chandelier piece especially interests me, and gets me thinking about morse code. It's so exciting to think that language and words can still exist in a piece that is so purely object/image.
 ___
 
-## [WEEK 04](https://jackieliiu.github.io/CODEWORDS/Week04/) | [WEEK 06](https://jackieliiu.github.io/CODEWORDS/Week06/)
+### [<< WEEK 04](https://jackieliiu.github.io/CODEWORDS/Week04/) | [WEEK 06 >>](https://jackieliiu.github.io/CODEWORDS/Week06/)
