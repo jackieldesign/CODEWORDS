@@ -44,6 +44,6 @@ These are some ideas of what I may want to experiment with:
 - trying to put this into WebGL space, possibly making the video on the surfaces of a 3D object, or just making the text fly off in a 3D manner. (I do like the 2D currently, but I really want to hint towards Lanham's belief that text is returning to 3D space through electronic literature).
 
 
-## [WEEK 10](https://jackieliiu.github.io/CODEWORDS/Week10/)
+###  [<< WEEK 08](https://jackieliiu.github.io/CODEWORDS/Week08/) | [WEEK 10 >>](https://jackieliiu.github.io/CODEWORDS/Week10/)
 
 
