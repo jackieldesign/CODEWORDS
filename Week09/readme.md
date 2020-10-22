@@ -1,3 +1,7 @@
+# WEEK 09 — Building Bricks
+
+In this tutorial we started to build our projects in Processing. We split into groups according to what we needed. I chatted with Na about using the Ml5 library, whilst I struggled with getting anything working. I also went to the 3D text group and tried out using the 3DTEXT library which was a lot of fun.
+
 <p align="CENTER"><img src="HelloGoodbye.gif"></p>
 
 [click here to see a pose net test!](https://jackieliiu.github.io/CODEWORDS/Week09/PoseNet101/)
