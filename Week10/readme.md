@@ -11,7 +11,7 @@ I've been trying to figure out how to get one word to appear at a time with each
 
 SO! I need to find out how to make the loop only happen once each time. I tried using a boolean variable, but that resulted in only the first word appearing. I also tried noLoop(); but this freezes the entire draw function.
 
-<img src="Ahh.jpg">
+<p align="center"><img src="Ahh.jpg"></p>
 
 [Try Here](https://jackieliiu.github.io/CODEWORDS/Week10/OscillatingWords_Class/)
 
@@ -26,7 +26,7 @@ Other things I changed:
 
 I got one full string to appear at the very start, but it won't continue...
 
-<img src="Screen Shot 2020-10-06 at 10.27.11 PM.jpg">
+<p align="center"><img src="Screen Shot 2020-10-06 at 10.27.11 PM.jpg"></p>
 
 [Try Here](https://jackieliiu.github.io/CODEWORDS/Week10/OneAtATime/)
 
