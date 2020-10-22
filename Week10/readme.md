@@ -56,5 +56,5 @@ Thinking about technology in a way that considers the world and its needs is so 
 
 ___
 
-## [WEEK 09](https://jackieliiu.github.io/CODEWORDS/Week09/) | [WEEK 11](https://jackieliiu.github.io/CODEWORDS/Week11/)
+### [<< WEEK 09](https://jackieliiu.github.io/CODEWORDS/Week09/) | [WEEK 11 >>](https://jackieliiu.github.io/CODEWORDS/Week11/)
 
