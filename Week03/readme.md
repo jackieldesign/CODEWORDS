@@ -14,8 +14,6 @@ I went down a bit of a rabbit hole surrounding e-literature, including e-poetry 
 
 [Enigma n](http://vispo.com/animisms/enigman/enigman.htm#) by Jim Andrews.
 
-
-
 I then discovered the AI video game [Façade](https://www.playablstudios.com/facade). Intrigued by it's absolute involvement of the reader in dramatic storytelling (with a rather humble visual style), I found an article from the NYT that reflected on how games are redefining the power of the gamer, in which there is a well-put quote that also hints at multiplicity and the excitement that comes from bifurcated responses:
 
 >As put by Chris Crawford, a legendary game designer of the 1980's who now focuses on interactive storytelling technology: "As a game designer you are an absolute god. One kind of god says, 'O.K., now this leaf will fall a little bit here, and then this wind will blow a bit over there.' The other kind of god says, 'Here are the laws of physics. Go for it."'
@@ -36,5 +34,7 @@ We also helped each other familiarise ourselves with customising our avatars. Si
 Have finally started learning processing outside of class! Made a desert-reminiscent abstract sketch.
 
 <p align="center"><img src="ILoveDanShiffman.gif"></p>
+
+___
 
 ###  [<< WEEK 02](https://jackieliiu.github.io/CODEWORDS/Week02/) |  [WEEK 04 >>](https://jackieliiu.github.io/CODEWORDS/Week04/)
