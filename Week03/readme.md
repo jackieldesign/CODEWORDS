@@ -37,4 +37,4 @@ Have finally started learning processing outside of class! Made a desert-reminis
 
 <p align="center"><img src="ILoveDanShiffman.gif"></p>
 
-## [WEEK 04](https://jackieliiu.github.io/CODEWORDS/Week04/)
+###  [<< WEEK 02](https://jackieliiu.github.io/CODEWORDS/Week02/) |  [WEEK 04 >>](https://jackieliiu.github.io/CODEWORDS/Week04/)
