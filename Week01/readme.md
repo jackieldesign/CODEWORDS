@@ -1,4 +1,4 @@
-# Week 01 — a new language
+# Week 01 — A New Language
 
 And so, code + words begins.
 
