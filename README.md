@@ -2,7 +2,7 @@
 
 <img src="angrymonkey.gif">
 
-Hello! Welcome to my SKO for the Code + words studio run by Andy Simionato and Karen ann Donnachie :book: :desktop_computer: 
+Hello! Welcome to my SKO for the Code + words studio run by Andy Simionato and Karen ann Donnachie  ☻  
 
 Because I was too scared of Github earlier in the semester, I compiled many anythings in a [Milanote board](https://app.milanote.com/1K8HVt1SIiPR8B?p=hN70IwOtzhJ) whenever I found a helpful or cool resource. Everything there will already be included here, but the Milanote is like a version with only links, photos, and without my ramblings. If you like, you can have a look, and I hope you find something of interest :)
 
