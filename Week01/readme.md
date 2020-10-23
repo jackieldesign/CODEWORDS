@@ -34,22 +34,18 @@ We started off with the basics, but my mind was already blown. Rainbow circles!
 [Click here!](https://jackieliiu.github.io/CODEWORDS/Week01/Initials/myinitials)
 We were given this task to do between our week 1 and week 2 classes. I decided to play more with the built-in mouseX mouseY variables, and create a playful and interactive sketch. I also made a grid for the background because I like grids. I think there's probably an easier way to do it, but it was kinda therapeutic and I haven't done mental maths in a while so it was good practice.
 
-### Test
-
+Test:
 <img src="Screen Shot 2020-07-30 at 1.05.59 PM.png"> 
 
 
-### Final
-
+Final:
 <img src="Screen Shot 2020-09-03 at 5.47.28 PM.JPG">
 
 
-### Notes
-
+Notes:
 <img src="CWNotes7.jpg">
 
 ___
-
 
 ### [WEEK 02 >>](https://jackieliiu.github.io/CODEWORDS/Week02/)
 
