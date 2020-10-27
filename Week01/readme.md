@@ -47,5 +47,5 @@ Notes:
 
 ___
 
-### [WEEK 02 >>](https://jackieliiu.github.io/CODEWORDS/Week02/)
+[WEEK 02 >>](https://jackieliiu.github.io/CODEWORDS/Week02/)
 
